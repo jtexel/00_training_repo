@@ -1,6 +1,5 @@
 This is a test file for the GIT training!
 regel toegevoegd
 nog een
-regel 4
-
-regel 6 voor de test
+regel 4 -- have a look at the .css file
+weer en regel erbij!
